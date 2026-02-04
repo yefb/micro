@@ -2,7 +2,7 @@
 
 Personal microblog for quick thoughts, code snippets, and technical reflections.
 
-**Live site:** https://yeinerf.micro.blog
+**Live site:** https://micro.yeinerf.com
 
 ---
 
