@@ -1,0 +1,58 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Yeiner Fernandez",
+	"icon": "https://micro.blog/yeinerf/avatar.jpg",
+	"home_page_url": "https://micro.yeinerf.com/",
+	"feed_url": "https://micro.yeinerf.com/feed.json",
+	"items": [
+		
+			{
+				"id": "http://yeinerf.micro.blog/2026/02/06/how-i-learn-new-tech.html",
+				
+				"content_html": "<p>How I learn new tech fast:</p>\n<ol>\n<li>Build something real</li>\n<li>Document decisions &amp; trade-offs</li>\n<li>Teach it (forces clarity)</li>\n</ol>\n<p>This weekend: RAG system -&gt; writing 3 docs explaining every technical decision. Now I’m onto really understanding embeddings.</p>\n<p>Writing = understanding.\nI’ll update on how that goes.</p>\n",
+				"content_text": "How I learn new tech fast:\n\n1. Build something real\n2. Document decisions & trade-offs\n3. Teach it (forces clarity)\n\nThis weekend: RAG system -> writing 3 docs explaining every technical decision. Now I’m onto really understanding embeddings.\n\nWriting = understanding.\nI’ll update on how that goes.\n",
+				"date_published": "2026-02-06T22:07:23-05:00",
+				"url": "https://micro.yeinerf.com/2026/02/06/how-i-learn-new-tech.html"
+			},
+			{
+				"id": "http://yeinerf.micro.blog/2026/02/04/day-of-fodmap-turns-out.html",
+				
+				"content_html": "<p>Day 3 of FODMAP: turns out that artisan bimbo bread has been destroying my gut for years and I just thought it was &lsquo;normal&rsquo;</p>\n<p>Not gluten. Not lactose. Just wheat fructans. Who knew.</p>\n",
+				"content_text": "Day 3 of FODMAP: turns out that artisan bimbo bread has been destroying my gut for years and I just thought it was 'normal'\n\nNot gluten. Not lactose. Just wheat fructans. Who knew.\n",
+				"date_published": "2026-02-04T13:15:43-05:00",
+				"url": "https://micro.yeinerf.com/2026/02/04/day-of-fodmap-turns-out.html"
+			},
+			{
+				"id": "http://yeinerf.micro.blog/2026/02/03/testing-github-archiving-integration-if.html",
+				
+				"content_html": "<p>Testing GitHub archiving integration. If you&rsquo;re reading this in the repo, it worked! 🚀</p>\n",
+				"content_text": "Testing GitHub archiving integration. If you're reading this in the repo, it worked! 🚀\n",
+				"date_published": "2026-02-03T21:14:24-05:00",
+				"url": "https://micro.yeinerf.com/2026/02/03/testing-github-archiving-integration-if.html"
+			},
+			{
+				"id": "http://yeinerf.micro.blog/2025/12/05/watched-lion-the-movie-was.html",
+				
+				"content_html": "<p>Watched: <a href=\"https://www.themoviedb.org/movie/334543\">Lion</a> 🍿</p>\n<p>The movie was incredibly touching. We loved it and cried a lot, however, the drama was a bit too much for my 9yr old son, who fell asleep by the last 30 minutes of the movie.</p>\n",
+				"content_text": "Watched: [Lion](https://www.themoviedb.org/movie/334543) 🍿\n\nThe movie was incredibly touching. We loved it and cried a lot, however, the drama was a bit too much for my 9yr old son, who fell asleep by the last 30 minutes of the movie.\n",
+				"date_published": "2025-12-05T16:45:22-05:00",
+				"url": "https://micro.yeinerf.com/2025/12/05/watched-lion-the-movie-was.html"
+			},
+			{
+				"id": "http://yeinerf.micro.blog/2025/11/01/my-son-had-his-first.html",
+				
+				"content_html": "<p>My son had his first ever Taekwondo competition, in the exact same place I won my first gold medal 20 yrs ago; the tears fell off naturally. I’m a proud daddy</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "My son had his first ever Taekwondo competition, in the exact same place I won my first gold medal 20 yrs ago; the tears fell off naturally. I’m a proud daddy\n\n<img src=\"uploads/2025/385d3d4ea0714cb1a8aff09b83694b5b.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2025/1429852dd1884e76a6f040c3ca161b52.jpg\" width=\"600\" height=\"326\" alt=\"\"><img src=\"uploads/2025/ac020d161a4a42da8fc83fc567145167.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-11-01T16:12:34-05:00",
+				"url": "https://micro.yeinerf.com/2025/11/01/my-son-had-his-first.html"
+			},
+			{
+				"id": "http://yeinerf.micro.blog/2025/10/30/guess-im-never-watching-a.html",
+				
+				"content_html": "<p>Guess I’m never watching a soap opera again, last one I’m about to finish is insufferable</p>\n",
+				"content_text": "Guess I’m never watching a soap opera again, last one I’m about to finish is insufferable \n",
+				"date_published": "2025-10-30T20:55:55-05:00",
+				"url": "https://micro.yeinerf.com/2025/10/30/guess-im-never-watching-a.html"
+			}
+	]
+}
