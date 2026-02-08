@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://yeinerf.micro.blog/2026/02/08/watched-beauty-and-the-beast.html",
+				
+				"content_html": "<p>Watched: <a href=\"https://www.themoviedb.org/movie/10020\">Beauty and the Beast</a> 🍿</p>\n<p>I had to watch it eventually, no? It’s a mandatory watch.\nAnd a good one for a 1:00 AM zapping over what should we watch next? I enjoyed it a lot!</p>\n",
+				"content_text": "Watched: [Beauty and the Beast](https://www.themoviedb.org/movie/10020) 🍿\n\nI had to watch it eventually, no? It’s a mandatory watch.\nAnd a good one for a 1:00 AM zapping over what should we watch next? I enjoyed it a lot!\n",
+				"date_published": "2026-02-08T02:48:39-05:00",
+				"url": "https://micro.yeinerf.com/2026/02/08/watched-beauty-and-the-beast.html"
+			},
+			{
 				"id": "http://yeinerf.micro.blog/2026/02/06/how-i-learn-new-tech.html",
 				
 				"content_html": "<p>How I learn new tech fast:</p>\n<ol>\n<li>Build something real</li>\n<li>Document decisions &amp; trade-offs</li>\n<li>Teach it (forces clarity)</li>\n</ol>\n<p>This weekend: RAG system -&gt; writing 3 docs explaining every technical decision. Now I’m onto really understanding embeddings.</p>\n<p>Writing = understanding.\nI’ll update on how that goes.</p>\n",
